@@ -1,5 +1,7 @@
 # Point Cloud Denoising via Momentum Ascent in Gradient Fields (ICIP'23)
-![](teaser.gif)
+<p align="right">
+  <img src="teaser.gif" />
+</p>
 
 This code is implemented based on [Score](https://github.com/luost26/score-denoise).
 

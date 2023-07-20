@@ -1,7 +1,7 @@
 # Point Cloud Denoising via Momentum Ascent in Gradient Fields (ICIP'23)
 
 In this repository we provide code of the paper:
-> **Deep equilibrium models for video snapshot compressive imaging**
+> **Point Cloud Denoising via Momentum Ascent in Gradient Fields**
 > 
 > Yaping Zhao, Haitian Zheng, Zhongrui Wang, Jiebo Luo, Edmund Y. Lam
 > 

@@ -1,9 +1,15 @@
 # Point Cloud Denoising via Momentum Ascent in Gradient Fields (ICIP'23)
+
+In this repository we provide code of the paper:
+> **Deep equilibrium models for video snapshot compressive imaging**
+> 
+> Yaping Zhao, Haitian Zheng, Zhongrui Wang, Jiebo Luo, Edmund Y. Lam
+> 
+> arxiv link: https://arxiv.org/abs/2202.10094
+
 <p align="right">
   <img src="teaser.gif" />
 </p>
-
-This code is implemented based on [Score](https://github.com/luost26/score-denoise).
 
 ## Installation
 
@@ -92,7 +98,15 @@ python train.py
 Please find tunable parameters in the script.
 
 
+# Citation
+Cite our paper if you find it interesting!
+```
+@article{zhao2022point,
+  title={Point Cloud Denoising via Momentum Ascent in Gradient Fields},
+  author={Zhao, Yaping and Zheng, Haitian and Wang, Zhongrui and Luo, Jiebo and Lam, Edmund Y},
+  journal={arXiv preprint arXiv:2202.10094},
+  year={2022}
+}
+```
 
-
-
-
+This code is implemented based on [Score](https://github.com/luost26/score-denoise).

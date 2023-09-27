@@ -5,7 +5,7 @@ In this repository we provide code of the paper:
 > 
 > Yaping Zhao, Haitian Zheng, Zhongrui Wang, Jiebo Luo, Edmund Y. Lam
 > 
-> arxiv link: https://arxiv.org/abs/2202.10094
+> paper link: https://ieeexplore.ieee.org/abstract/document/10222122
 
 <p align="right">
   <img src="teaser.gif" />
@@ -101,11 +101,13 @@ Please find tunable parameters in the script.
 # Citation
 Cite our paper if you find it interesting!
 ```
-@article{zhao2022point,
+@inproceedings{zhao2023point,
   title={Point Cloud Denoising via Momentum Ascent in Gradient Fields},
   author={Zhao, Yaping and Zheng, Haitian and Wang, Zhongrui and Luo, Jiebo and Lam, Edmund Y},
-  journal={arXiv preprint arXiv:2202.10094},
-  year={2022}
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={161--165},
+  year={2023},
+  organization={IEEE}
 }
 ```
 

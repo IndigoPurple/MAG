@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0761c9c-e6b3-4256-a12c-496903d2dc94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DEQSCI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PATE" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,7 +40,8 @@
       <workItem from="1668571341754" duration="1893000" />
       <workItem from="1687442598371" duration="2098000" />
       <workItem from="1687509387568" duration="176000" />
-      <workItem from="1689857871726" duration="1028000" />
+      <workItem from="1689666694029" duration="1240000" />
+      <workItem from="1692020489084" duration="3922000" />
     </task>
     <servers />
   </component>

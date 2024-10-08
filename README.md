@@ -24,6 +24,14 @@ The code has been tested in the following environment:
 | [pytorch3d](https://github.com/facebookresearch/pytorch3d)   | 0.5.0   | For evaluation only. It computes point-to-mesh distances.    |
 | [pytorch-cluster](https://github.com/rusty1s/pytorch_cluster) | 1.5.9   | We only use `fps` (farthest point sampling) to merge denoised patches. |
 
+### Install via Conda (CUDA 12)
+
+```bash
+conda env create -f env_cu12.yml
+conda activate mag_cu12
+```
+(Thanks zhanghua7099 for preparing a configuration file specifically for the CUDA 12 environment.)
+
 ### Install via Conda (PyTorch 1.9.0 + CUDA 11.1)
 
 ```bash
